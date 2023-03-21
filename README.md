@@ -35,7 +35,7 @@ As an additional safeguard against SQL injections, all queries are controlled us
 ## NuGet Packages
 
 The following NuGet packages were used within the application:
-- [x] newtonsoft.json.13.0.1
-- [x] xamarin.essentials.1.7.0 
-- [x] zxing.net.mobile.2.4.1
-- [x] zxing.net.mobile.forms.2.4.1
+- [x] newtonsoft.json.13.0.1 (The MIT License (MIT))
+- [x] xamarin.essentials.1.7.0 (The MIT License (MIT))
+- [x] zxing.net.mobile.2.4.1 (The MIT License (MIT))
+- [x] zxing.net.mobile.forms.2.4.1 (The MIT License (MIT))
